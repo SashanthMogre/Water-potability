@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Team 8</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<!-- <link rel="stylesheet" href="./style.css"> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+
+</head>
+<style>
+    body{
+    padding: 20px;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  font-family: "Raleway";
+  justify-content: center;
+  background-image: url('https://acegif.com/wp-content/gifs/water-43.gif');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 100%;
+
+
+    }
+</style>
+<body>
+<div>
+    <form action="{{url_for('predict')}}" method="get">
+        <button type="Submit">Test Now</button>
+    </form>
+</div>
+</body>
