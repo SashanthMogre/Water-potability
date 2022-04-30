@@ -1,7 +1,5 @@
 # Water-potability
 
-ml 2 - classification (water potability) and deployment
-
 ## Problem Statement:
 
 Water is one of the elements and the necessity that most major global to the daily life. Approximately 71% of the surface of the earth is covered by water. From that only 2.5% of the surface water such as the rivers and lakes are potabale. Water pollution is the contamination of water bodies that occur when pollutant are indirectly or directly discharge into water bodies without adequate treatment to remove the harmful sediments. The increasing contamination of freshwater systems with thousands of industrial and natural chemical compounds is one of the key environmental problems facing humanity worldwide.
